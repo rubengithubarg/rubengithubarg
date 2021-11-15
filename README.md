@@ -21,5 +21,5 @@ const aboutMe = {
       databases: ["MongoDB", "Postgresql", "Oracle"],
    },
    currentOccupation: ["Henry bootcamp student, open for job opportunities"],
-   challenge: "Learn Jamstack Architecture",
+   challenge: "Learn Jamstack Architecture", "Blockchain",
 };
