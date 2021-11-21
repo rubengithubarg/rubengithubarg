@@ -24,4 +24,3 @@ const aboutMe = {
    challenge: "Learn Jamstack Architecture", "Blockchain",
 };
 
-Projects I've been working on: [![](NFT´s Marketplace)](https://www.henrynft.tk/)
