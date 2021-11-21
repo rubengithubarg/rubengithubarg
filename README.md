@@ -23,3 +23,5 @@ const aboutMe = {
    currentOccupation: ["Henry bootcamp student, open for job opportunities"],
    challenge: "Learn Jamstack Architecture", "Blockchain",
 };
+
+Projects I've been working on: [![](NFT´s Marketplace)](https://www.henrynft.tk/)
