@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **emaranda94@gmail.com**
 
-- ⚡ Fun fact **I think I am a curius person**
+- ⚡ Fun fact:   **I think I am a curius person**
 
 <h3 align="left">Networks:</h3>
 <p align="left">
