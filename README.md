@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN Stack and Life**
 
-- 📫 How to reach me **emaranda94@gmail.com**
+- 📫 How to reach me **ruben.aranda.softwaredev@gmail.com**
 
 - ⚡ Fun fact:   **I am a curius person**
 
