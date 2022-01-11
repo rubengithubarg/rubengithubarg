@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruben Aranda</h1>
 <h3 align="center">A Full Stack Web Developer from Buenos Aires.</h3>
 
-- 🌱 I’m currently learning **Jamstack architecture and E-commerce**
+- 🌱 I’m currently learning **E-commerce and Advanced Advanced Algorithms**
 
 - 👨‍💻 All of my projects are available at [My YouTube Channel](https://www.youtube.com/channel/UCmB0aKEW6W1vs-0C9A6TLQw)
 
