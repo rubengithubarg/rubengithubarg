@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ruben.aranda.softwaredev@gmail.com**
 
-- ⚡ Fun fact:   **I am a curius person**
+- ⚡ Fun fact:   **I am a curious person**
 
 <h3 align="left">Networks:</h3>
 <p align="left">
