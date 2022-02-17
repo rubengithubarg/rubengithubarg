@@ -5,11 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [My YouTube Channel](https://www.youtube.com/channel/UCmB0aKEW6W1vs-0C9A6TLQw)
 
-- 💬 Ask me about **MERN Stack and Life**
+- 💬 Ask me about **MERN Stack, PERN Stack and Life**
 
 - 📫 How to reach me **ruben.aranda.softwaredev@gmail.com**
-
-- ⚡ Fun fact:   **I am a curious person**
 
 <h3 align="left">Networks:</h3>
 <p align="left">
