@@ -33,7 +33,7 @@
 
 #### Repository Front-end link [here](https://github.com/rubengithubarg/Smart-Brain)
 #### Repository Back-end link [here](https://github.com/rubengithubarg/Smart-Brain-api)
-#### Project [here](https://www.youtube.com/watch?v=Kapr8fYmfvc)
+#### Project [here](https://smart-brain-ruben-aranda.herokuapp.com/)
 
 ---
 
