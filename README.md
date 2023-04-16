@@ -9,7 +9,7 @@
 
 <h3 align="left">Networks:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ruben-aranda-software-engineer-0b60a3133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruben-aranda-software-engineer-0b60a3133/" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/ruben-aranda-software-engineer-0b60a3133/](https://www.linkedin.com/in/ruben-aranda-0b60a3133/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/ruben-aranda-software-engineer-0b60a3133/](https://www.linkedin.com/in/ruben-aranda-0b60a3133/)" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmB0aKEW6W1vs-0C9A6TLQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmb0akew6w1vs-0c9a6tlqw" height="30" width="40" /></a>
 </p>
 
